@@ -12,3 +12,4 @@ print('To give the xample of stash apply')
 
 print('some text')
 print('Added this line to test the merge')
+print('Added this line to test the rebase')
